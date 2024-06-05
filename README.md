@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 🍽️ Welcome to the Eat n Split Project! 🍽️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey there, foodie and finance wizard! Ready to manage your dining expenses with ease? This project will take you on a coding adventure with React, where you'll build an incredible expense-sharing app. Let's get started!
 
-## Available Scripts
+View the project live [here🔗](react-split-bill.vercel.app)
 
-In the project directory, you can run:
+## 🍽️ Available Scripts
 
-### `npm start`
+In the project directory, you can run several scripts to keep things running smoothly. Here’s the rundown:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🚀 `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Launch the app in development mode! Visit [http://localhost:3000](http://localhost:3000) to see your expense tracker in action.
 
-### `npm test`
+- **Live Reloading:** Make changes and see them instantly. No refresh needed!
+- **Linting Alerts:** Catch and fix code issues right in the console.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🧪 `npm test`
 
-### `npm run build`
+Run tests to ensure everything's functioning perfectly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Interactive Testing:** Tests run in watch mode, providing immediate feedback.
+- **Stay Informed:** Know exactly what's passing and what needs fixing.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔨 `npm run build`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ready to share your app with the world? Build it for production!
 
-### `npm run eject`
+- **Optimized Build:** React is bundled in production mode for peak performance.
+- **Minified Code:** Smaller file sizes with minification and hashed filenames.
+- **Deployment Ready:** Your app is now ready to be shared globally!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ⚙️ `npm run eject`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Need full control? Eject for complete configuration access.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **One-Way Ticket:** Ejecting is permanent. Proceed with caution!
+- **Full Customization:** Access and tweak configuration files and dependencies.
+- **Total Control:** Tailor the setup exactly to your needs.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Remember, you don’t have to eject to use the app. The default setup is perfect for most use cases. But if you need that extra control, it’s there for you!
 
-## Learn More
+## 🍽️ Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This expense-sharing app comes packed with useful features to simplify splitting bills and tracking expenses:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ✏️ Adding New Friends: Easily add friends with their names and profile pictures.
+- 👥 Viewing Who Owes and Who is Owed: Keep track of who owes you and whom you owe.
+- 💰 Flexible Splitting: Split expenses no matter who paid.
+- 🔄 Dynamic Expense Management: Manage and adjust expenses between two people effortlessly.
+- 📊 Viewing Expense Statistics: Get a clear picture of your shared expenses.
 
-### Code Splitting
+## 🍽️ Ready to Get Organized?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+With these features and scripts, you're all set to start building, testing, and deploying your expense-sharing app. Dive in, have fun, and may your dining experiences be fair and financially smooth! 🍽️✨
 
-### Analyzing the Bundle Size
+## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is a part of my learning process from [Jonas Schmedtmann](https://github.com/jonasschmedtmann)🫡.
